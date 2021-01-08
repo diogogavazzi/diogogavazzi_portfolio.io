@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+
+  <style>
+  h1 {
+    text-align: left;
+  }
+
+  h3{
+    text-align: left;
+  }
+
+  h4{
+    text-align: right;
+  }
+  </style>
+
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>My Portfolio</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+   <!-- Mobile Specific Metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body>
+
+   <!-- Header
+   ================================================== -->
+   <header id="home">
+
+      <nav id="nav-wrap">
+
+         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+
+         <ul id="nav" class="nav">
+            <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+            <li><a class="smoothscroll" href="#about">About</a></li>
+	         <li><a class="smoothscroll" href="#resume">Resume</a></li>
+           <li><a class="smoothscroll" href="#values">Values</a></li>
+         </ul> <!-- end #nav -->
+
+      </nav> <!-- end #nav-wrap -->
+
+      <div class="row banner">
+         <div class="banner-text">
+            <h1 class="responsive-headline">I'm Diogo Gavazzi.</h1>
+            <h3>I'm <span>I.T student</span>, <span>Fireman</span>,<span>Fighter</span>, <span>musician</span> and <span>"photographer"</span>.<p>
+              Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more<a class="smoothscroll" href="#about"> about me</a>.</h3>
+            <hr />
+            <ul class="social">
+               <li><a href="https://www.facebook.com/profile.php?id=100014110869465"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="https://twitter.com/Diogogavazzi1"><i class="fa fa-twitter"></i></a></li>
+               <li><a href="https://www.instagram.com/diogogavazzi/"><i class="fa fa-instagram"></i></a></li>
+               <li><a href="https://diogogavazzi.github.io/website/"><i class="fa fa-camera"></i></a></li>
+            </ul>
+         </div>
+      </div>
+
+      <p class="scrolldown">
+         <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+      </p>
+
+   </header>
+  <!-- Header End -->
+
+
+   <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="photos/me.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>About Me</h2>
+
+            <p> My name is Diogo Gavazzi, I am 18 years old, I has born at 20 September 2002.
+            </p>
+
+            <div class="row">
+
+               <div class="columns contact-details">
+
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Diogo Gavazzi</span><br>
+						   <span>Minde - street dr.Coelho dos Reis nº107 1ºandar<br>
+						         2395-200
+                     </span><br>
+                     <span>dgavazzi11@gmail.com</span>
+					   </p>
+
+               </div>
+
+               <div class="columns download">
+                  <p>
+                     <a href="https://drive.google.com/drive/folders/1HE3c4zn-ryMIxuAsnCx1UjJIHdLBrL5D" class="button"><i class="fa fa-download"></i>Download some of my certificates and diplomas</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+   <!-- Resume Section
+   ================================================== -->
+   <section id="resume">
+        <div class="row">
+     <!--about me-->
+     <div class="row work">
+
+         <h1><span>Resume about me</span></h1>
+        <h5><p style="color:black">I am a very difficult person to bear, very difficult to trust in others, very introspective, I dont like to talk, I hate partys, I hate loud, people screaming at my ears. I dont like my thoughts...</p>
+          <p style="color:black">I love sports, danger, adrenaline, speed, music, chill, be at home, see a movie, workout, fight, take photos.</p>
+          <p style="color:black">I love learn new things, mainly related to the army and police. Like survival techniques, weapons, knifes, knife combate, hand to hand fight, self defense, etc. </p>
+
+        </p></h3>
+ </div> <!-- item end -->
+</div> <!-- item end -->
+</div> <!-- main-col end -->
+</div> <!-- End Education -->
+</div> <!-- item end -->
+</div> <!-- main-col end -->
+</div> <!-- End Education -->
+      <!-- Education-->
+
+<!--values-->
+<section id="values">
+     <div class="row">
+<a class="smoothscroll" href="values">
+     <h1><span>values</span></h1>
+           <h3><p class="info">Like erveryone i have my own values. Such as <u>never leave anyone behind, help everyone, don´t drink, don´t smoke, be always nice to everyone, don't fight without need, be always prepared to everything, be loyal, NEVER talk to much, never talk when you must be quiet, never think you know more than the other, never think you are better than anyone.</u></p><br>
+        </div>
+  <br><br><br>
+
+</div> <!-- item end -->
+</div> <!-- main-col end -->
+</div> <!-- End Education -->
+
+
+
+
+
+
+<!--finish values-->
+
+
+<!--traits-->
+<section id="traits">
+     <div class="row">
+<a class="smoothscroll" href="traits">
+     <h1><span>traits</span></h1>
+           <h3><p class="info"> I am a person very Accountable, Attentive to details, Competitive, Dependable, Hard working, Loyal, Motivated, Practical, Sympathetic, Team player</u></p><br>
+        </div>
+  <br><br><br>
+</div> <!-- item end -->
+</div> <!-- main-col end -->
+</div> <!-- End traits-->
+<!-- traits-->
+</p></h3>
+</div> <!-- item end -->
+</div> <!-- item end -->
+</div> <!-- main-col end -->
+</div> <!-- End Education -->
+</div> <!-- item end -->
+</div> <!-- main-col end -->
+</div> <!-- End Education -->
+<!-- Education-->
+
+      <div class="row education">
+
+         <div class="three columns header-col">
+            <h1><span>Education</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>Schools</h3>
+                  <h3><p class="info">I´ve study in Minde sice my first year of school at my ninth year.<br>
+                    I started my course of GEI (Gestao de equipamentos informáticos) in Torres Novas at professional school.
+                    At this date I am at the last year, missing some months to finish.<br><p>
+
+
+
+                    <h3>Courses</h3>
+                    <h3><p class="info">Lately I´ve been taking a lot of courses at firefighters. At this day I´ve take:<br><br>
+                <u><strong>TAT(Tripulante de ambulâncias de transporte)</strong></u>, where I have learn who to use the <u><strong>DAE</strong></u> and be able to use it <strong>(desfibrilhador automático externo)</strong>.<br>
+                <br><strong>Trauma and Child-birth</strong>: here I´ve learned how to do <strong><u>child-birth, who to react in case of trauma, how to reanimate babys,children and adult people.</strong></u><br>
+                <br><strong>Basic technologies in firefighter activity</strong> Where I have learned about how all the CB work and all the hierarchy.<br>
+                <br><strong>Organization of fire services</strong> where I have learned about Recognize the structure of national protection and relief organizations. Identify the importance of interpersonal relationships in fire departments. Recognize the structure of the rescue operations management systems.Generally describe the communications networks serving the fire departments.Classify, identify and characterize the vehicles and operational equipment of firefighters.
+
+
+
+
+
+                    </p><br>
+               </div>
+            </div> <!-- item end -->
+
+            <div class="row item">
+
+                  <h3>Hobbies</h3>
+
+                  <h3><p class="info">My first hobby was futebol, I´ve played for 1 year.
+                    <br> At 2013 I´ve started at firefighters. Today I am recruit.<br>
+                    I´m blue belt in karate. I´ve been champ at XIV goju-ryu tournament at Lisbon and champion at a team tournament at Seixal.
+                    <br>I´m yellow belt in judo. I´ve trained with national champions,world champions and olympic champions, like Renato Kobowashi, Nuno Delgado,Pedro Dias and others.
+                    <br>I have participate at competitions of swimming where I have win a lot of them and have been selected to the nationals but sadly never happend.
+                    <br>I have trained street workout and parkour.
+                    <br>I´ve played guitar for 5 years at CAORG in Minde. I´ve done a lot of concerts solo and in group, played at 2 orchestras participate at masterclass of guitars where awarded people teach people to play better.
+                    <br>I study about photography, I´ve a website online:<br><p>
+                    <a href="https://diogogavazzi.github.io/website/">Click here to see my website<p></a><br>
+                    <a href="https://drive.google.com/drive/folders/1IpvA0N2E-vnNy8MdRDFg8EksuGTPZcoh?usp=sharing">Click to see my hobbies</a>
+                    </p><br><br>
+               </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Education -->
+
+
+      <!-- Work-->
+      <div class="row work">
+
+         <div class="three columns header-col">
+            <h1><span>Work</span></h1><p>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                 <div class="row item">
+                   <h3>Recent Work</h3>
+                   <h4><p class="info">At 2021 I´ve stared doing patient transport to the hospitals and their homes. Doing some emergencies when someone fall or get hurt or erven desease. I´ve done some transport of people with AVC,recovered from covid,drunk people and mainly dyspnoea.</em></p></h4>
+                 </div>
+
+                 <div class="row item">
+                   <h3>Part-Time</h3>
+                   <h4><p class="info">In 2020, I´ve worked with my uncle building pools all over the coutry.</em></p></h4>
+                 </div>
+
+                 <div class="row item">
+                   <h3>Business</h3>
+                   <h4><p class="info">In 2019, I started a small computer repair business, but I live in a small village where the majority of the population is elderly and has no computer.So the business ended up not lasting long or making a lot of money</em></p></h4>
+                 </div>
+
+                 <div class="row item">
+                   <h3>Summer job</h3>
+                   <h4><p class="info">At 2018 I´ve worked at pear orchard in the summer. Wake up at 5 am to 6:30 am to be at the stop a few km from home to get the van to work reach the pear orchard at 9 am work until 6 pm.</em></p></h4>
+                 </div>
+
+                 <div class="row item">
+                  <h3>First work</h3>
+                  <h4><p class="info">Im 2017 I´ve get my first work at a textil factory where i´ve done package of textil material</em></p></h4>
+               </div>
+            </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Work -->
+
+   <!-- footer
+   ================================================== -->
+   <footer>
+     <style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+</style>
+     <style>
+
+     footer{
+       background-color: black;
+       left: 0;
+       bottom: 10;
+       width:100
+   }
+     </style>
+     <br><br>
+        <ul class="social-links">
+               <li><a  href="https://www.facebook.com/profile.php?id=100014110869465"><i class="fa fa-facebook"></i></a></li>
+                 <li><a href="https://twitter.com/Diogogavazzi1"><i class="fa fa-twitter"></i></a></li>
+                 <li><a href="https://www.instagram.com/diogogavazzi/"><i class="fa fa-instagram"></i></a></li>
+                 <li><a href="https://diogogavazzi.github.io/website/"><i class="fa fa-camera"></i></a></li>
+            </ul>
+         </div>
+         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+      </div>
+   </footer> <!-- Footer End-->
+
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+   <script src="js/jquery.flexslider.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <script src="js/magnific-popup.js"></script>
+   <script src="js/init.js"></script>
+
+</body>
+
+</html>
